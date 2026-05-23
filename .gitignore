@@ -1,0 +1,15 @@
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+*.egg-info/
+dist/
+build/
+instance/
+.pytest_cache/
+env.bak/
+/.env
+*.pkl
+*.h5
